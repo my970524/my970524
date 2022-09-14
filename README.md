@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   </p>
   <h3>✨ABOUT ME✨</h3>
   <p>안녕하세요, 주니어 백엔드 개발자 김민지 입니다.🙌</p>
-  <p>Python, Django, DRF를 이용한 웹 개발에 가장 자신있습니다.</p>
+  <p>Python, Django, DRF를 이용한 서버 개발에 가장 자신있습니다.</p>
   <p>깃허브 컨벤션, 코드 컨벤션의 중요성을 알고 그에 맞춰 협업할 수 있습니다.</p>
   <br>
   <p><b>💌Email💌</b></p>
